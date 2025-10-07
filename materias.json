@@ -1,0 +1,5 @@
+[
+  { "nombre": "Matemáticas I", "codigo": "MAT101" },
+  { "nombre": "Programación I", "codigo": "PROG101" },
+  { "nombre": "Historia Universal", "codigo": "HIS101" }
+]
